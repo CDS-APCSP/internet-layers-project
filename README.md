@@ -12,7 +12,7 @@ You and your partner must change and/or add the following items on your website
 -change font color
 
 ## Reading Content
-You and your partner will be given a topic to research. You will be researching the (OSI Model)[https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/] of the Internet. The 7 layers of the OSI Model are:
+You and your partner will be given a topic to research. You will be researching the [OSI Model](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/) of the Internet. The 7 layers of the OSI Model are:
 -Application Layer
 -Presentation Layer
 -Session Layer
@@ -21,4 +21,4 @@ You and your partner will be given a topic to research. You will be researching 
 -Data Link Layer
 -Physical Layer
 
-In class, we used the (TCP/IP Model)[https://www.geeksforgeeks.org/tcp-ip-model/] of the Internet for class dicussions. Your group must explain where your 'layer' fits in with what we discussed in class. So you will take one of the layers from the OSI Model and explain the protocols that are used and where it can be found in the TCP/IP Model.
+In class, we used the [TCP/IP Model](https://www.geeksforgeeks.org/tcp-ip-model/) of the Internet for class dicussions. Your group must explain where your 'layer' fits in with what we discussed in class. So you will take one of the layers from the OSI Model and explain the protocols that are used and where it can be found in the TCP/IP Model.
